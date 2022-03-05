@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Task Tracker in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I will be teaching myself React.js beginning with this to-do list application. The instructions for the original application can be found [here](https://www.youtube.com/watch?v=w7ejDZ8SWv8).
+
+Big thanks to Brad Traversy and Traversy Media for creating the React Crash Course.
 
 ## Available Scripts
 
